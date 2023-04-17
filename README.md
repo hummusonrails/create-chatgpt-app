@@ -16,8 +16,8 @@ If you have questions or need help, please ask in [GitHub Discussions](https://g
 ## Quick Overview
 
 ```sh
-cargo install create-chatgpt-app
-create-chatgpt-app my-app
+cargo install create_chatgpt_app
+create_chatgpt_app my-app
 cd my-app
 cargo run
 ```
@@ -40,8 +40,8 @@ You’ll need to have Rust and Cargo installed on your local development machine
 To create a new app, follow these steps:
 
 ```sh
-cargo install create-chatgpt-app
-create-chatgpt-app my-app
+cargo install create_chatgpt_app
+create_chatgpt_app my-app
 ```
 
 It will create a directory called `my-app` inside the current folder.<br>
