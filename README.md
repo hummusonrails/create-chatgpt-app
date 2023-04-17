@@ -2,7 +2,7 @@
 
 Create ChatGPT apps with Rust and Rocket.
 
-[![Crates.io](https://img.shields.io/crates/v/create-chatpgpt-app.svg)](https://crates.io/crates/create_chatgpt_app)
+[![Crates.io](https://img.shields.io/crates/v/create_chatgpt_app_.svg)](https://crates.io/crates/create_chatgpt_app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Contributing](https://img.shields.io/badge/Contributing-Guidelines-blue)](CONTRIBUTING.md)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Respectful-orange)](CODE_OF_CONDUCT.md)
